@@ -28,10 +28,9 @@ During the development of this app, I aimed to:
 - Gain experience with user authentication and secure payment processing.
 
 **Demo:**
-Explore the live demo [https://food-delivery-mern-app-psi.vercel.app](link-to-demo).
-MY Backend URL : https://backend-mern-00ov.onrender.com
-**Contributions:**
-Contributions and feedback from the developer community are encouraged. Feel free to submit pull requests or report any issues.
+Explore the live demo [eats-on-wheels.vercel.app].
+
+
 
 
 
