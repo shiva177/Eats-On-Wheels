@@ -1,7 +1,7 @@
-## Food Delivery App (MERN Stack)
+## EatsOnWheels (MERN Stack)
 
 **Project Overview:**
-This is a web-based food delivery application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The app allows users to browse nearby restaurants, place orders, track deliveries in real-time, create user profiles, and make secure payments.
+EatsOnWheels is a web-based food delivery platform powered by the MERN stack (MongoDB, Express.js, React, Node.js). Our app enables users to discover nearby restaurants, place orders with ease, create personalized profiles, and make secure payments. Experience the convenience of delicious meals delivered right to your doorstep with EatsOnWheels.
 
 **Key Features:**
 - Browse and search for restaurants and dishes.
