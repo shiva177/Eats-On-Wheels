@@ -1,0 +1,11 @@
+{
+  "name": "EatsOnWheels ",
+  "version": "1.0.0",
+  "description": "**Project Overview:** This is a web-based food delivery application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The app allows users to browse nearby restaurants, place orders, track deliveries in real-time, create user profiles, and make secure payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
